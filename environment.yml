@@ -1,0 +1,17 @@
+name: EnvTBsom
+channels:
+  - anaconda
+  - conda-forge
+  - pytorch
+dependencies:
+  - matplotlib
+  - seaborn
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - scipy
+  - time
+  - pip:
+    - clustergrammer2
+    - googledrivedownloader
